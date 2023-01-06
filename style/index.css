@@ -21,7 +21,7 @@ main {
 .banner-section-1 {
     width: 1200px;
     height: 570px;
-    background-image: url('/image/donation13.jpg');
+    background-image: url('../image/donation13.jpg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
