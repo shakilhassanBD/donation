@@ -8,8 +8,9 @@
 /* image normal tag here ...............................*/
 
 body {
-    margin: 5px 150px;
-    /* border: 1px solid black; */
+    width: 1200px;
+    height: auto;
+    margin: auto;
     background-color: rgb(236, 236, 128);
 }
 
@@ -26,7 +27,6 @@ main {
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
-    border-radius: 10px;
 
 }
 
